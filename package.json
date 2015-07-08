@@ -6,7 +6,7 @@
   "author": "Matias Gea <matigea@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mfgea/grunt-dredd.git"
+    "url": "git://github.com/inkless/grunt-dredd.git"
   },
   "bugs": {
     "url": "https://github.com/mfgea/grunt-dredd/issues"
@@ -40,7 +40,7 @@
     "test": "test"
   },
   "dependencies": {
-    "dredd": "^0.3.9",
-    "protagonist": "^0.12.1"
+    "dredd": "^1.0.0",
+    "protagonist": "^0.20.1"
   }
 }
